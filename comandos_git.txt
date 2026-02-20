@@ -4,3 +4,13 @@ git commit -m "msg" -> faz commit do que estava para ser commitado
 git add nome_arquivo -> adiciona um arquivo pra ser commitado
 git log -> mostra todo o histórico de commit
 
+~FLUXO DE TRABALHO
+1.CRIAR O DIRETÓRIO (pasta) DO PROJETO
+2.INICIAR O GIT DENTRO DO DIRETÓRIO CRIADO (git init.)
+3.EDITA OU CRIA ARQUIVOS
+4.git status
+5.git add <nome_arquivo>
+6.git status
+7.git commit -m "mensagem"
+8.git status
+9. volta para o passo 3

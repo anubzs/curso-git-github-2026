@@ -3,4 +3,5 @@ cd -> move entre os diretórios
 pwd -> mostra diretório de trabalho
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo do diretório
-rm -rf -> remove de forma recusriva e forçada todos os diretorios
+rm -rf -> remove de forma recusriva e forçada todos os diretórios
+fodase
