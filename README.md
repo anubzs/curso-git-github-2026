@@ -51,3 +51,4 @@ video-aula número 5
 11. excluir <nova\_branch> origin
 12. git checkout main
 13. git branch -D <nova\_branch>
+segue o link
