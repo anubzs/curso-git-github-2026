@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-esse arquivos contem comandos secundários do git	
-primeiros comandos
-segundo comandos
-=======
 esse arquivos contem comandos secundários do git
 primeiro comando
 segundo comando
->>>>>>> secundaria
+#comandos genéricos
+mais comandos 
+secundaria
