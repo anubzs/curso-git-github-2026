@@ -4,7 +4,7 @@ Um curso para iniciantes aprenderem a trabalharem com versionamento
 
 video-aula número 5
 
-
+apenas adicionando algo para testar
 
 \#FLUXO DE TRABALHO GIT LOCAL
 
